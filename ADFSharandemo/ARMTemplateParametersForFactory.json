@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFSharandemo"
+		},
+		"GITHUBAzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }

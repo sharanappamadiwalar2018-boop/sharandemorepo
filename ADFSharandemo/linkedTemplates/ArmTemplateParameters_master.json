@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFSharandemo"
 		},
+		"GITHUBAzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
