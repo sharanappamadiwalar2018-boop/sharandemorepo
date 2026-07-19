@@ -1,0 +1,15 @@
+{
+	"name": "ADFSharandemo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ba22ecd9-949f-44c6-adaa-63800af068b2",
+		"tenantId": "e8340e40-93f1-4f92-b9fc-87f707ae618e"
+	}
+}
